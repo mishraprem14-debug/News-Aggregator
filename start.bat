@@ -11,3 +11,4 @@ if exist "node_modules\vite\bin\vite.js" (
     call npm.cmd run dev -- --open
 )
 pause
+
